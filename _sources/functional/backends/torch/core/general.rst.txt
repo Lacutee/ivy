@@ -33,7 +33,6 @@ General
    general/abs.rst
    general/argmax.rst
    general/argmin.rst
-   general/argsort.rst
    general/cast.rst
    general/arange.rst
    general/linspace.rst
@@ -54,7 +53,6 @@ General
    general/indices_where.rst
    general/isnan.rst
    general/isinf.rst
-   general/isfinite.rst
    general/reshape.rst
    general/broadcast_to.rst
    general/squeeze.rst
